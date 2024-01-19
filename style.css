@@ -53,6 +53,8 @@ section {
     border: 0;
     border-radius: 100px;
     margin-top: 4%;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
 }
 
 /* hamburger menu */
@@ -83,8 +85,6 @@ section {
     width: 100%;
     max-width: 200px;
     margin: 0 auto 16px;
-    font-size: 18px;
-
     text-align: center;
     padding: 12px 16px;
     color: black;
