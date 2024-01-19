@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: #FFE9CE;
 }
 
 /* header */
@@ -27,13 +28,23 @@ li {
 h1, h2 {
     font-size: 32px;
     font-family: 'Kadwa', serif;
-    line-height: 40px;
+    line-height: 35px;
+    padding-top: 5%;
+    color: #3D407A;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Kadwa', serif;
+    line-height: 35px;
+    color: #3D407A;
 }
 
 p {
     font-size: 18px;
     padding-top: 3%;
     font-family: 'Inter', sans-serif;
+    color: #494036;
 }
 
 /* sexy */
@@ -47,12 +58,13 @@ section {
 .button-18 {
     display: inline-flex;
     justify-content: center;
-    padding: 14px 35px;
-    background-color: black;
+    padding: 16px 35px;
+    background-color: #D95970;
     color: #ffffff;
     border: 0;
     border-radius: 100px;
-    margin-top: 4%;
+    margin-top: 5%;
+    text-decoration: none;
     font-size: 18px;
     font-family: 'Inter', sans-serif;
 }
@@ -86,6 +98,8 @@ section {
     max-width: 200px;
     margin: 0 auto 16px;
     text-align: center;
+    font-size: 18px;
+    font-weight: bold;
     padding: 12px 16px;
     color: black;
     text-decoration: none;
