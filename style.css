@@ -58,6 +58,12 @@ section {
     margin-top: 9%;
 }
 
+/* footer */
+.socials {
+    display: flex;
+    gap: 5%;
+}
+
 /* https: //getcssscan.com/css-buttons-examples */
 .button-18 {
     display: inline-flex;
