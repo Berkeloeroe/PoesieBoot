@@ -31,7 +31,7 @@ h1, h2 {
     font-size: 36px;
     font-family: 'Kadwa', serif;
     line-height: 35px;
-    padding-top: 5%;
+    /* padding-top: 5%; */
     color: #3D407A;
 }
 
@@ -72,7 +72,7 @@ section {
 hr.rounded {
     border-top: 5px solid #3D407A;
     border-radius: 50px;
-    margin: 0 5%;
+    margin: 5% 5%;
 }
 
 /* footer */
