@@ -89,6 +89,10 @@ hr.rounded {
     gap: 5%;
 }
 
+.ikonen {
+    width: 40px;
+}
+
 /* https: //getcssscan.com/css-buttons-examples */
 .button-18 {
     display: inline-flex;
