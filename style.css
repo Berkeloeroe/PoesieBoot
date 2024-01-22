@@ -33,7 +33,6 @@ h1, h2 {
     font-size: 36px;
     font-family: 'Kadwa', serif;
     line-height: 35px;
-    /* padding-top: 5%; */
     color: #3D407A;
 }
 
@@ -47,7 +46,7 @@ h3 {
 p {
     font-size: 18px;
     line-height: 1.4;
-    margin-top: 3%;
+    margin-top: 4%;
     font-family: 'Inter', sans-serif;
     color: #494036;
 }
@@ -102,7 +101,7 @@ hr.rounded {
     color: #ffffff;
     border: 0;
     border-radius: 100px;
-    margin-top: 5%;
+    margin-top: 6%;
     text-decoration: none;
     font-size: 16px;
     font-family: 'Inter', sans-serif;
