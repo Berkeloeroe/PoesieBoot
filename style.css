@@ -24,7 +24,8 @@ li {
 }
 
 .menu {
-    max-width: 45px;
+    width: 50px;
+    background-color: #FFE9CE;
 }
 
 /* lettertypes */
