@@ -8,9 +8,7 @@
 }
 
 body {
-    /* background-color: #FFE9CE; */
-    background: rgb(255,243,228);
-    background: linear-gradient(180deg, rgba(255,243,228,1) 0%, rgba(255,233,206,1) 50%);
+    background-color: #FFF3E4;
 }
 
 /* header */
