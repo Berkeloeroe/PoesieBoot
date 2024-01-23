@@ -25,9 +25,8 @@ li {
     list-style: none;
 }
 
-.menu {
+.menuikoon {
     width: 50px;
-    /* width: 200px; */
 }
 
 /* lettertypes */
@@ -113,6 +112,11 @@ hr.rounded {
 .hamburger {
     border: none;
     z-index: 100;
+    background-color: transparent;
+}
+
+button.hamburger.is-active {
+    /* background-color: transparent; */
 }
 
 .mobile-nav {
