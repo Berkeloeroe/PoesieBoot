@@ -130,7 +130,7 @@ hr.rounded {
     z-index: 98;
     background-color: #3D407A;
     padding-top: 120px;
-    transition: 0.4s;
+    transition: 0.3s;
 }
 
 .mobile-nav.is-active {
