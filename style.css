@@ -19,6 +19,9 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 5% 5%;
+    position: fixed;
+    width: 100%;
+    background-color: #FFF3E4;
 }
 
 li {
@@ -75,6 +78,10 @@ section {
     background-color: #EFD5B5;
 }
 
+.catfoto {
+    margin-top: 20%;
+}
+
 /* divider */
 hr.rounded {
     border: 3px solid #3D407A;
@@ -113,10 +120,6 @@ hr.rounded {
     border: none;
     z-index: 100;
     background-color: transparent;
-}
-
-button.hamburger.is-active {
-    /* background-color: transparent; */
 }
 
 .mobile-nav {
