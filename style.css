@@ -25,7 +25,7 @@ li {
 
 .menu {
     width: 50px;
-    background-color: #FFE9CE;
+    /* width: 200px; */
 }
 
 /* lettertypes */
@@ -121,7 +121,7 @@ hr.rounded {
     min-height: 100vh;
     display: block;
     z-index: 98;
-    background-color: #FFE9CE;
+    background-color: #3D407A;
     padding-top: 120px;
     transition: 0.4s;
 }
@@ -140,6 +140,6 @@ hr.rounded {
     font-weight: bold;
     font-family: 'Kadwa', serif;    
     padding: 12px 16px;
-    color: #3D407A;
+    color: white;
     text-decoration: none;
 }
