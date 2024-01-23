@@ -78,7 +78,13 @@ section {
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
     background-color: #EFD5B5;
-        flex-direction: row;
+    flex-direction: row;
+}
+
+.linkscontent {
+    width: 60%;
+
+
 }
 
 .socialmediaicons {
