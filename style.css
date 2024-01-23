@@ -60,6 +60,10 @@ p {
     color: #3D407A;
 }
 
+.catfoto {
+    margin-top: 20%;
+}
+
 /* secties */
 section {
     display: flex;
@@ -74,10 +78,17 @@ section {
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
     background-color: #EFD5B5;
+        flex-direction: row;
 }
 
-.catfoto {
-    margin-top: 20%;
+.socialmediaicons {
+    display: flex;
+    margin: 5% 0 8%;
+    gap: 15%;
+}
+
+.ikonen {
+    width: 40px;
 }
 
 /* divider */
@@ -85,17 +96,6 @@ hr.rounded {
     border: 3px solid #3D407A;
     border-radius: 50px;
     margin: 5% 5%;
-}
-
-/* footer */
-.socialmediaicons {
-    display: flex;
-    margin: 5% 0 8%;
-    gap: 5%;
-}
-
-.ikonen {
-    width: 40px;
 }
 
 /* https: //getcssscan.com/css-buttons-examples */
