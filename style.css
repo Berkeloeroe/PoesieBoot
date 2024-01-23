@@ -99,6 +99,10 @@ section {
     width: 40px;
 }
 
+.footersection p {
+    margin-top: 15%;
+}
+
 /* divider */
 hr.rounded {
     border: 3px solid #3D407A;
