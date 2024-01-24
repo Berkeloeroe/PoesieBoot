@@ -42,11 +42,18 @@ li {
     width: 35px;
 }
 
+/* getyped */
 .logo {
     font-size: 20px;
     text-decoration: none;
     font-family: 'Kadwa', serif;
     color: #3D407A;
+}
+
+/* svg */
+.logo {
+    width: 160px;
+    vertical-align: middle;
 }
 
 /* lettertypes */
