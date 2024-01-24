@@ -42,6 +42,13 @@ li {
     width: 50px;
 }
 
+.logo {
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Kadwa', serif;
+    color: #3D407A;
+}
+
 /* lettertypes */
 h1, h2 {
     font-size: 38px;
@@ -63,13 +70,6 @@ p {
     margin-top: 4%;
     font-family: 'Inter', sans-serif;
     color: #494036;
-}
-
-.logo {
-    font-size: 20px;
-    text-decoration: none;
-    font-family: 'Kadwa', serif;
-    color: #3D407A;
 }
 
 .catfoto {
@@ -101,6 +101,7 @@ section {
 width: 130px;
 }
 
+/* socialmedias */
 .socialmediaicons {
     display: flex;
     margin: 5% 0 8%;
@@ -111,8 +112,9 @@ width: 130px;
     width: 40px;
 }
 
+/* copyright */
 .footersection p {
-    margin-top: 15%;
+    margin-top: 25%;
 }
 
 /* divider */
