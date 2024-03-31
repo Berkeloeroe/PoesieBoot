@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #FFF1DF;
+    background-color: #FBFFF2;
 }
 
 /* header */
@@ -19,7 +19,7 @@ header {
     padding: 5% 5%;
     position: fixed;
     width: 100%;
-    background-color: #FFF1DF;
+    background-color: #FBFFF2;
 
 }
 
@@ -76,7 +76,7 @@ p {
     line-height: 1.5;
     margin-top: 4%;
     font-family: 'Inter', sans-serif;
-    color: #494036;
+    color: #3F403D;
 }
 
 address {
@@ -84,7 +84,7 @@ address {
     line-height: 1.4;
     margin-top: 4%;
     font-family: 'Inter', sans-serif;
-    color: #494036;
+    color: #3F403D;
 }
 
 address a {
@@ -155,7 +155,7 @@ hr.rounded {
     display: inline-flex;
     justify-content: center;
     padding: 16px 35px;
-    background-color: #D95970;
+    background-color: #3D407A;
     color: #ffffff;
     border: 0;
     border-radius: 100px;
@@ -181,7 +181,7 @@ hr.rounded {
     display: block;
     z-index: 98;
     background-color: #3D407A;
-    padding-top: 120px;
+    /* background-image: url('media/golf.png');     */
     transition: 0.3s;
 }
 
