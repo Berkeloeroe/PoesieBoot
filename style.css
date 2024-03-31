@@ -181,6 +181,7 @@ hr.rounded {
     display: block;
     z-index: 98;
     background-color: #3D407A;
+        padding-top: 120px;
     /* background-image: url('media/golf.png');     */
     transition: 0.3s;
 }
